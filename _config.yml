@@ -1,3 +1,7 @@
-name: Your New Jekyll Site
+name: Ciencias de la Computación III - Laboratorios
 markdown: redcarpet
 pygments: true
+baseurl: /ug-cc3-labs
+timezone: America/Guatemala
+relative_permalinks: false
+permalink: none
